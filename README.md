@@ -1,1 +1,1 @@
-# WebDuplicate
+# Web Duplicate
